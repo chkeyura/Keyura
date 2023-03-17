@@ -109,3 +109,13 @@ a{
     padding-top: 10px;
     padding-bottom: 10px;
 }
+#myCarousel{
+    width: 70%;
+    background-color: bisque;
+    margin:0 auto;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px ;
+    
+}
